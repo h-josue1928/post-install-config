@@ -33,6 +33,10 @@ Step 1: Configure Roles
 
 ![image](https://github.com/user-attachments/assets/4a4b7dde-e828-413a-827c-d6ed64d7faeb)
 
+![image](https://github.com/user-attachments/assets/bee62109-4db3-4d8b-81e4-da2337e53a53)
+
+![image](https://github.com/user-attachments/assets/9881cbf8-dbb7-49b8-87f4-9def8d4a0c2a)
+
 
   
 
@@ -44,6 +48,9 @@ Step 2: Configure Departments
 - Click 'Add New Department'
 - In the name field enter System Administrators'
 - Click 'Create Dept' at the bottom of the webpage
+
+  ![image](https://github.com/user-attachments/assets/345bc221-80e4-4a41-81ae-11af1abe7518)
+
 
 
 Step 3: Configure Teams
@@ -87,6 +94,7 @@ Step 6: Configure Users (Customers)
 - Switch to the Agent Panel (top right should say Admin Panel, which means you're in the 'Agent Panel') -> Users -> Add User
 - Enter a made up email address and name -> Add User
 - Go back to the 'User Directory' and add a second user by repeating the exact same steps
+![image](https://github.com/user-attachments/assets/dd989cab-a9ed-47b0-b808-cc616442e3c4)
 
 
 Step 7: Configure SLA
