@@ -164,7 +164,7 @@ Step 8: Configure Help Topics
   ![image](https://github.com/user-attachments/assets/94b0d379-85de-4c5e-bd0b-d9dff717a634)
 
   ![image](https://github.com/user-attachments/assets/f08d86d4-7cf3-4e8d-a46e-f37de5250803)
-
+Congratulations, you have configured all of the core settings to create and work tickets in osTicket!
 
 
 
