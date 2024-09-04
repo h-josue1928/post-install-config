@@ -32,11 +32,6 @@ Step 1: Configure Roles
 - Click Add Role
 
   
-![image](https://github.com/user-attachments/assets/2fb92f73-b56a-45db-9e6a-e131cf3ee585)
-
-![image](https://github.com/user-attachments/assets/7491dae3-b6bf-49b0-a21b-3b6b8d492b89)
-
-![image](https://github.com/user-attachments/assets/2ce04afe-8bf3-4c7b-a3ee-158e992ab314)
 
 
 
@@ -57,11 +52,7 @@ Step 3: Configure Teams
 - Click 'Create Team' at the bottom of the webpage
 
 
-![image](https://github.com/user-attachments/assets/d28f74ad-58db-413e-8402-e93a2fcf6f49)
 
-![image](https://github.com/user-attachments/assets/df3b1a82-c5a3-4e5e-b09a-bf4855d7e560)
-
-![image](https://github.com/user-attachments/assets/7b2ac68d-637b-4250-85d3-826ae95e4d33)
 
 
 
@@ -70,7 +61,7 @@ Step 4: Configure to allow anyone to create tickets
 -  Ensure you're under Admin Panel (top right should say Agent Panel, which means you're in the 'Admin Panel') -> Settings -> Users -> Settings
 -  Make sure the 'Require registration and login to create tickets' box is unchecked
 
-![image](https://github.com/user-attachments/assets/742c1679-29e7-4447-9631-d7a18db02ca0)
+
 
 
 Step 5: Configure Agents (Help Desk Professionals)
