@@ -158,6 +158,8 @@ Step 8: Configure Help Topics
 
   ![image](https://github.com/user-attachments/assets/febb4dad-f9df-4a01-a4e7-e03b13dae642)
 
+![image](https://github.com/user-attachments/assets/9413476d-2239-44db-9e1b-aa1a1e01fafe)
+
 
   ![image](https://github.com/user-attachments/assets/94b0d379-85de-4c5e-bd0b-d9dff717a634)
 
