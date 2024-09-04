@@ -31,6 +31,9 @@ Step 1: Configure Roles
 - Click the 'Permissions' tab and Check all boxes under Tickets\Tasks\Knowledgebase
 - Click Add Role
 
+![image](https://github.com/user-attachments/assets/4a4b7dde-e828-413a-827c-d6ed64d7faeb)
+
+
   
 
 
