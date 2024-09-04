@@ -51,6 +51,9 @@ Step 2: Configure Departments
 
   ![image](https://github.com/user-attachments/assets/345bc221-80e4-4a41-81ae-11af1abe7518)
 
+  ![image](https://github.com/user-attachments/assets/36e9eab5-e52c-4187-bfa9-2415c9efc967)
+
+
 
 
 Step 3: Configure Teams
@@ -61,7 +64,11 @@ Step 3: Configure Teams
 - Click the 'Members' tab and add yourself to the team
 - Click 'Create Team' at the bottom of the webpage
 
+  ![image](https://github.com/user-attachments/assets/4e179d13-0573-4a59-9814-be6ac2210de8)
 
+  ![image](https://github.com/user-attachments/assets/94d7ea55-f2fd-4da0-9270-5e642e7005ca)
+
+  ![image](https://github.com/user-attachments/assets/abd838bd-32e0-4157-be11-78ae76d8c93a)
 
 
 
@@ -70,6 +77,8 @@ Step 4: Configure to allow anyone to create tickets
 
 -  Ensure you're under Admin Panel (top right should say Agent Panel, which means you're in the 'Admin Panel') -> Settings -> Users -> Settings
 -  Make sure the 'Require registration and login to create tickets' box is unchecked
+
+  ![image](https://github.com/user-attachments/assets/c25c0d0f-7f3a-48df-8e40-fc93e7afce32)
 
 
 
@@ -87,6 +96,22 @@ Step 5: Configure Agents (Help Desk Professionals)
 - Repeat steps to add a second agent
 - Assign the second agent to the 'Support' department and 'View only' role under the 'Access' tab
 
+  ![image](https://github.com/user-attachments/assets/5c058061-5fbc-4b2b-8e57-891d2d71acb8)
+
+
+![image](https://github.com/user-attachments/assets/ffa63b87-6803-443e-9d7b-67e5e26993c2)
+
+  
+  ![image](https://github.com/user-attachments/assets/83ec12c8-8240-4530-8ec5-43a2a5c23570)
+
+  
+  ![image](https://github.com/user-attachments/assets/2a62cc5f-a2b7-489c-92e4-764441466367)
+
+
+  ![image](https://github.com/user-attachments/assets/c6180f56-bea6-45b4-97ec-e65ae08fd131)
+
+
+
 
 
 Step 6: Configure Users (Customers)
@@ -94,7 +119,14 @@ Step 6: Configure Users (Customers)
 - Switch to the Agent Panel (top right should say Admin Panel, which means you're in the 'Agent Panel') -> Users -> Add User
 - Enter a made up email address and name -> Add User
 - Go back to the 'User Directory' and add a second user by repeating the exact same steps
-![image](https://github.com/user-attachments/assets/dd989cab-a9ed-47b0-b808-cc616442e3c4)
+
+![image](https://github.com/user-attachments/assets/39171cd4-e7f8-4371-80af-3bd2893147fb)
+
+![image](https://github.com/user-attachments/assets/500e4023-450f-4d60-bf3b-806afa0922f8)
+
+![image](https://github.com/user-attachments/assets/8ff892ae-47f8-4186-8329-9246deb35794)
+
+
 
 
 Step 7: Configure SLA
@@ -106,6 +138,12 @@ Step 7: Configure SLA
 - Add SEV-C (Grace Period: 8 hours) (Schedule: Business Hours M-F)
 - Click 'Add Plam' at the bottom of the webpage
 
+![image](https://github.com/user-attachments/assets/4f247231-564a-4a98-a9ea-d4aa9e0cedb6)
+
+![image](https://github.com/user-attachments/assets/286c6b02-cc08-46df-b6d5-41921227c298)
+
+![image](https://github.com/user-attachments/assets/1904cfe6-9d2c-4e96-b96c-b76461c37b67)
+
 
 Step 8: Configure Help Topics
 
@@ -115,3 +153,15 @@ Step 8: Configure Help Topics
     - Business Critical Outage
     - Personal Computer Issues
     - Password Reset
+ 
+  ![image](https://github.com/user-attachments/assets/b15ebee6-64b0-4205-8c52-d0d9c75db27d)
+
+  ![image](https://github.com/user-attachments/assets/48cdd96f-9281-498b136-7d7bb8eeb3e8)
+
+  ![image](https://github.com/user-attachments/assets/94b0d379-85de-4c5e-bd0b-d9dff717a634)
+
+  ![image](https://github.com/user-attachments/assets/f08d86d4-7cf3-4e8d-a46e-f37de5250803)
+
+
+
+
